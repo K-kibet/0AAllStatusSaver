@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "500551152841",
+    "firebase_url": "https://gbremii-default-rtdb.firebaseio.com",
+    "project_id": "gbremii",
+    "storage_bucket": "gbremii.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500551152841:android:dbcb1d052a1411eebec918",
+        "android_client_info": {
+          "package_name": "com.videodownload34.statusvideo41"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500551152841-gnoeoigfv8lehf0ik9ach42iijcqvk69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo9Iei4Tsum0beIEL3UBqzFsJIGikrhL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500551152841-gnoeoigfv8lehf0ik9ach42iijcqvk69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500551152841:android:4114f62c32ff0cdebec918",
+        "android_client_info": {
+          "package_name": "com.videodownload34.statusvideo41"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500551152841-gnoeoigfv8lehf0ik9ach42iijcqvk69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo9Iei4Tsum0beIEL3UBqzFsJIGikrhL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500551152841-gnoeoigfv8lehf0ik9ach42iijcqvk69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
