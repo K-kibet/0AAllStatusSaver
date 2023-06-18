@@ -255,9 +255,9 @@ public class TikActivity extends AppCompatActivity {
             tikWeb.getSettings().setSaveFormData(true);
             tikWeb.setLayoutParams(new RelativeLayout.LayoutParams(-1, -1));
             tikWeb.setWebViewClient(new MyBrowser());
-            tikWeb.getSettings().setAppCacheMaxSize(5242880);
+            //tikWeb.getSettings().setAppCacheMaxSize(5242880);
             tikWeb.getSettings().setAllowFileAccess(true);
-            tikWeb.getSettings().setAppCacheEnabled(true);
+            //tikWeb.getSettings().setAppCacheEnabled(true);
             tikWeb.getSettings().setJavaScriptEnabled(true);
             tikWeb.getSettings().setDefaultTextEncodingName("UTF-8");
             tikWeb.getSettings().setCacheMode(WebSettings.LOAD_CACHE_ELSE_NETWORK);
@@ -326,9 +326,9 @@ public class TikActivity extends AppCompatActivity {
             tikWeb.getSettings().setSaveFormData(true);
             tikWeb.setLayoutParams(new RelativeLayout.LayoutParams(-1, -1));
             tikWeb.setWebViewClient(new MyBrowser());
-            tikWeb.getSettings().setAppCacheMaxSize(5242880);
+            //tikWeb.getSettings().setAppCacheMaxSize(5242880);
             tikWeb.getSettings().setAllowFileAccess(true);
-            tikWeb.getSettings().setAppCacheEnabled(true);
+            //tikWeb.getSettings().setAppCacheEnabled(true);
             tikWeb.getSettings().setJavaScriptEnabled(true);
             tikWeb.getSettings().setDefaultTextEncodingName("UTF-8");
             tikWeb.getSettings().setCacheMode(WebSettings.LOAD_CACHE_ELSE_NETWORK);
